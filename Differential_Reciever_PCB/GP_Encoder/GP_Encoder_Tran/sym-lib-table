@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "AM26LS32ACDR")(type "KiCad")(uri "C:/Users/ByteStore/Desktop/GP_Encoder/Lib/AM26LS32ACDR.kicad_sym")(options "")(descr ""))
+)
